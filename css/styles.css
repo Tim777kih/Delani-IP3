@@ -1,0 +1,21 @@
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#landing{
+    background-image: url(../IP3-master/assets/backgrounds/h_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+#one{
+    padding-top: 14%;
+}
+.logo{
+    margin-left: 50%;
+}
+h1{
+    color: white;
+}
