@@ -12,7 +12,7 @@ Dependant on mailchimp api
 ### Tech Requrements
 Any browser,recommended browser is Chrome
 ### Bugs
-The web application does not show that the user's message gas been received.
+The web application does not show that the user's message has been received.
 ### Content information
  MIT License
 Copyright (c) 2020 Timothy Austin
