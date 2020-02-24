@@ -14,8 +14,61 @@
     padding-top: 14%;
 }
 .logo{
-    margin-left: 50%;
+    margin-left: 45%;
+    align-content: center;
+    padding: 20px;
 }
 h1{
     color: white;
+    size: 10px;
+    text-align: center;
+    padding: 20px;
+    
+    
+}
+h2{
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
+p{
+    text-align: center;
+    color: black;
+}
+.intro{
+    color: white;
+    text-align: center;
+}
+.services{
+    background-image: url(..//IP3-master/assets/backgrounds/s_image.jpg);
+    background-repeat: no-repeat;
+    
+}
+.fortwo{
+    color: white;
+    padding: 20px;
+}
+.du{
+    text-align: center;
+}
+.container2{
+    background-image: url(../IP3-master/assets/backgrounds/c_image.jpg);
+}
+h5{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.social{
+    align-items: center;
+    margin-left: 420px;
+}
+.inn{
+    display: none;
+}
+#workq{
+    
+    
 }
