@@ -13,6 +13,7 @@ Dependant on mailchimp api
 Any browser,recommended browser is Chrome
 ### Bugs
 The web application does not show that the user's message has been received.
+The social icons may fail to show in the live page.
 ### Content information
  MIT License
 Copyright (c) 2020 Timothy Austin
