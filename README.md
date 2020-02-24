@@ -7,6 +7,10 @@ A software application that is visually appealing that shows a destailed work of
 JavaScript
 HTML
 CSS
+### Dependancies
+Dependant on mailchimp api
+### Tech Requrements
+Any browser,recommended browser is Chrome
 ### Content information
  MIT License
 Copyright (c) 2020 Timothy Austin
@@ -25,3 +29,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+#### Live page
+
