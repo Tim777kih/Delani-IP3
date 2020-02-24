@@ -1,19 +1,9 @@
-$(".card").hover(function(){
+$(".card").hover(function () {
   $(this).children(".qwork").fadeToggle(1000);
 });
-
-
 $(document).ready(function () {
-    $(".qdesign").click(function () {
-        $(".inn").toggle();
-        $(".qdesign").click(function(){
-            $(".inn").toggle();
-        })
-        
-
-    });
+  $(".ddesign").click(function () {
+    $(this).children(".devinn").toggle();
+    $(this).children(".dd").toggle();
+  })
 });
-
-
-  
-
